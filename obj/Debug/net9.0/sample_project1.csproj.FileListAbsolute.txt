@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Desktop\C# workspace\sample_project1\bin\Debug\net9.0\sample_project1.exe
+C:\Users\USER\OneDrive\Desktop\C# workspace\sample_project1\bin\Debug\net9.0\sample_project1.deps.json
+C:\Users\USER\OneDrive\Desktop\C# workspace\sample_project1\bin\Debug\net9.0\sample_project1.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\C# workspace\sample_project1\bin\Debug\net9.0\sample_project1.dll
+C:\Users\USER\OneDrive\Desktop\C# workspace\sample_project1\bin\Debug\net9.0\sample_project1.pdb
+C:\Users\USER\OneDrive\Desktop\C# workspace\sample_project1\obj\Debug\net9.0\sample_project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\C# workspace\sample_project1\obj\Debug\net9.0\sample_project1.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\C# workspace\sample_project1\obj\Debug\net9.0\sample_project1.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\C# workspace\sample_project1\obj\Debug\net9.0\sample_project1.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\C# workspace\sample_project1\obj\Debug\net9.0\sample_project1.dll
+C:\Users\USER\OneDrive\Desktop\C# workspace\sample_project1\obj\Debug\net9.0\refint\sample_project1.dll
+C:\Users\USER\OneDrive\Desktop\C# workspace\sample_project1\obj\Debug\net9.0\sample_project1.pdb
+C:\Users\USER\OneDrive\Desktop\C# workspace\sample_project1\obj\Debug\net9.0\sample_project1.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\C# workspace\sample_project1\obj\Debug\net9.0\ref\sample_project1.dll
